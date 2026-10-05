@@ -30,17 +30,11 @@ Sin mayúsculas sostenidas ni emojis en títulos. Nada por debajo de 13 px en pa
 
 ## 3. Logos
 
-Publicados en el sitio (Canva y otras herramientas los suben por URL):
+**Juego completo en `marca/logos/`** (SVG y PNG; qué disposición y qué color usar, y tamaños mínimos, en `marca/logos/README.md`): vertical y horizontal con y sin lema, solo el nombre con y sin lema, isotipo, minúsculas y avatares, cada uno a color, inverso (a color sobre marino), blanco, negro y marino. En Canva, carpeta "Suplelec · Logos".
 
-| Logo | URL |
-| --- | --- |
-| Horizontal a color | https://suplelec.com/wp-content/themes/suplelec/assets/logo/suplelec-horizontal.svg |
-| Horizontal blanco (sobre marino) | https://suplelec.com/wp-content/themes/suplelec/assets/logo/suplelec-horizontal-blanco.svg |
-| Con lema, a color y blanco | `…/suplelec-horizontal-lema.svg` y `…/suplelec-horizontal-lema-blanco.svg` |
-| Vertical, a color y blanco | `…/suplelec-vertical.svg` y `…/suplelec-vertical-blanco.svg` |
-| Isotipo (avatar, favicon) | `…/suplelec-isotipo.svg` |
+Los que usa el sitio también están publicados (otras herramientas los suben por URL): `https://suplelec.com/wp-content/themes/suplelec/assets/logo/` + `suplelec-horizontal.svg`, `-horizontal-blanco.svg`, `-horizontal-lema.svg`, `-horizontal-lema-blanco.svg`, `-vertical.svg`, `-vertical-blanco.svg` y `-isotipo.svg`.
 
-No se deforman ni se les cambia el color; espacio libre alrededor igual al alto de la "S". A color solo sobre claro; en blanco solo sobre marino. Genesis, Southwire, UL y ETL (autorizados) están en `…/assets/logo/marcas/` y `…/assets/logo/certificaciones/`: UL y ETL solo junto al producto certificado.
+No se deforman ni se les cambia el color; espacio libre alrededor igual al alto de la "S". A color solo sobre claro; sobre marino, el inverso o el blanco. Genesis, Southwire, UL y ETL (autorizados) están en `…/assets/logo/marcas/` y `…/assets/logo/certificaciones/`: UL y ETL solo junto al producto certificado.
 
 **Lema y frases de marca:** "Encuéntrelo con nosotros", "Consígalo con nosotros". **Activos distintivos** (se repiten siempre igual): naranja sobre marino, los cables 3D sobre fondo crema, "cotización en menos de una hora".
 
