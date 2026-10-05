@@ -1,0 +1,119 @@
+# Lo que no se publica en los textos de Suplelec: sitio, redes, anuncios, mensajes y correos.
+# Fuente: nucleo/instrucciones/comunes.md y nucleo/marca/perfil.md §8. Cambiar una regla
+# necesita la aprobación del usuario y una línea en nucleo/CAMBIOS.md.
+#
+# nivel = "bloquea": así no se publica.  nivel = "revisar": lo decide una persona.
+# Los patrones son expresiones regulares de Python; (?i) ignora mayúsculas.
+# revisar.py quita antes los comentarios HTML, las etiquetas, las URL, los teléfonos
+# y el código postal de la dirección, para no confundirlos con códigos de producto.
+
+# Más emojis que esto en un archivo se marca para revisar.
+max_emojis = 3
+
+[[regla]]
+id = "marca-no-permitida"
+nivel = "bloquea"
+patron = '(?i)\b(belden|windy\s+city)\b'
+motivo = "En público solo Genesis y Southwire."
+
+[[regla]]
+id = "cable-de-red"
+nivel = "bloquea"
+patron = '(?i)\bcables?\s+de\s+red\b|\bcat\s?5e?\b|\bcat\s?6a?\b|\bUTP\b'
+motivo = "El cable de red no se menciona."
+
+[[regla]]
+id = "competidor"
+nivel = "bloquea"
+patron = '\b(Sinext|Anixter|Elvatron|IE Nexcon|Nexcon|Enersys|ServiSecurity|IESA|ISS|Novex|Security Doctors|Cables y Redes)\b'
+motivo = "Sin competidores (perfil §6)."
+
+[[regla]]
+id = "genesis-de-southwire"
+nivel = "bloquea"
+patron = '(?i)genesis[^.\n]{0,60}\b(de|marca de|parte de|división de|filial de|pertenece a)\s+southwire'
+motivo = "Genesis y Southwire se presentan cada una por su lado."
+
+[[regla]]
+id = "stock-garantizado"
+nivel = "bloquea"
+patron = '(?i)stock\s+garantizado|garantizamos\s+(el\s+)?(stock|inventario|existencias)|siempre\s+(hay|tenemos)\s+(en\s+)?(stock|inventario)'
+motivo = "Se dice \"entrega inmediata del stock disponible\"."
+
+[[regla]]
+id = "precio"
+nivel = "bloquea"
+patron = '[$₡]\s?\d|\b\d[\d.,]*\s?(USD|dólares|colones)\b|\+\s?IVA\b'
+motivo = "Sin precios; si alguna vez hay uno aprobado, con IVA incluido."
+
+[[regla]]
+id = "credito"
+nivel = "bloquea"
+patron = '(?i)\bcrédito\b'
+motivo = "El crédito se trata con cada cliente; no se publica."
+
+[[regla]]
+id = "entrega"
+nivel = "bloquea"
+patron = '(?i)retiro\s+en\s+bodega|env[íi]os?\s+(a\s+domicilio|a\s+todo\s+el\s+país|gratis)|entrega\s+a\s+domicilio|entrega\s+en\s+(el\s+)?proyecto|despacho\s+a\s+(todo|domicilio)'
+motivo = "El método de entrega se negocia en el chat; no se publica."
+
+[[regla]]
+id = "fundacion"
+nivel = "bloquea"
+patron = '(?i)\bfundad[ao]s?\s+en\b|desde\s+(octubre\s+de\s+)?2024\b'
+motivo = "La fecha de fundación no se publica."
+
+[[regla]]
+id = "empaque"
+nivel = "bloquea"
+patron = '(?i)\bpull\s?box\b|\ben\s+carretes?\b|\ben\s+cajas?\b(?!\s+de\b)|\b(caja|carrete)s?\s+(roj[oa]s?|gris|grises|negr[oa]s?|azul|amarill[oa]s?|blanc[oa]s?|cerrad[oa]s?)\b'
+motivo = "Del empaque solo se dice el largo por rollo (305 m o 152 m)."
+
+[[regla]]
+id = "codigo-de-producto"
+nivel = "bloquea"
+patron = '(?<!UL )(?<!CSA )(?<!IEC )(?<!ISO )(?<!NFPA )(?<!N\.º )(?<!Decreto )(?<!Ley )(?<![\d.,])\b(?!(?:19|20)\d\d\b)\d{4,}\b|\bGEN\d|\bSPEC\b|P/N'
+motivo = "Parece un número de parte o un código de ficha."
+
+[[regla]]
+id = "ficha-publica"
+nivel = "bloquea"
+patron = '(?i)\b(descargu?e|descargar|baje|bajar|ver)\s+(la\s+)?ficha|\.pdf\b'
+motivo = "Las fichas no se publican; se envían en privado al ingeniero."
+
+[[regla]]
+id = "acreditacion"
+nivel = "bloquea"
+patron = '\bECA\b|(?i:ente\s+costarricense\s+de\s+acreditaci)'
+motivo = "No se explica cómo se acepta un certificador extranjero."
+
+[[regla]]
+id = "relleno"
+nivel = "bloquea"
+patron = '(?i)en\s+el\s+mundo\s+actual|\bdescubra\b|\bsin\s+duda\b|no\s+busque\s+más|en\s+la\s+era\s+digital|lleve\s+su\s+\w+\s+al\s+siguiente\s+nivel'
+motivo = "Frase de relleno (perfil §8)."
+
+[[regla]]
+id = "festividad"
+nivel = "bloquea"
+patron = '(?i)feliz\s+(navidad|año\s+nuevo|día)|felices\s+fiestas|black\s+friday|cyber\s+monday'
+motivo = "Sin festividades ni fechas especiales."
+
+[[regla]]
+id = "luz-solar"
+nivel = "revisar"
+patron = '(?i)(resistente|resistencia)\s+(a\s+)?(la\s+)?(luz\s+)?(solar|del\s+sol|al\s+sol)'
+motivo = "\"Resistente a la luz solar\" no quiere decir para exteriores; nunca como ventaja."
+
+[[regla]]
+id = "hecho-en-eeuu"
+nivel = "revisar"
+patron = '(?i)(hecho|fabricado)s?\s+en\s+(ee\.?\s?uu\.?|estados\s+unidos)|made\s+in\s+usa'
+motivo = "Solo en la familia que tiene el sello en su ficha."
+
+[[regla]]
+id = "trato-de-tu"
+nivel = "revisar"
+patron = '(?i)\b(tú|tienes|necesitas|puedes|quieres|escríbenos|contáctanos|llámanos|cotízalo|pídelo|consíguelo|encuéntralo)\b'
+motivo = "El trato es de usted."
