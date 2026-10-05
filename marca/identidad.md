@@ -36,7 +36,7 @@ Los que usa el sitio también están publicados (otras herramientas los suben po
 
 No se deforman ni se les cambia el color; espacio libre alrededor igual al alto de la "S". A color solo sobre claro; sobre marino, el inverso o el blanco. Genesis, Southwire, UL y ETL (autorizados) están en `…/assets/logo/marcas/` y `…/assets/logo/certificaciones/`: UL y ETL solo junto al producto certificado.
 
-**Lema y frases de marca:** "Encuéntrelo con nosotros", "Consígalo con nosotros". **Activos distintivos** (se repiten siempre igual): naranja sobre marino, los cables 3D sobre fondo crema, "cotización en menos de una hora".
+**Lema y frases de marca:** el lema del logo es "calidad & conectividad"; las frases de marca, "Encuéntrelo con nosotros" y "Consígalo con nosotros". Se usan las dos cosas (decisión del usuario, 5 de octubre de 2026). **Activos distintivos** (se repiten siempre igual): naranja sobre marino, los cables 3D sobre fondo crema, "cotización en menos de una hora".
 
 ## 4. Imágenes
 
