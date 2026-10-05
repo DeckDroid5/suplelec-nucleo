@@ -50,7 +50,7 @@ No se deforman ni se les cambia el color; espacio libre alrededor igual al alto 
 
 - **Producto:** las ilustraciones 3D propias (exactas, desde el catálogo). Nunca fotos de caja o carrete.
 - **Contexto:** imágenes generadas con IA (fal.ai) que pasan la revisión (§4.4). Nunca se presentan como fotos de Suplelec o de un proyecto real; la de proyectos dice "Foto ilustrativa".
-- **Diseños** (publicaciones, portadas, imágenes para compartir): Canva, con este color, estas fuentes y estos logos.
+- **Diseños** (publicaciones, portadas, imágenes para compartir): Canva, con este color, estas fuentes y estos logos. En Canva existe el kit de marca **"Suplelec"** (también hay uno viejo, "Suplelec Old"); antes de usarlo se revisa que coincida con esta identidad. El MCP de Canva también genera imágenes (`generate-image`), quita fondos y separa capas: sirve para retoques y variantes; para fotos realistas se prefiere fal.ai, que tiene más modelos y precio conocido por imagen.
 
 ### 4.2 Dirección: el cable es el protagonista
 
