@@ -2,6 +2,7 @@
 
 Cada cambio: fecha, proyecto desde donde se hizo, qué cambió y por qué. Lo más reciente arriba. Las reglas y los datos técnicos solo cambian con la aprobación del usuario (y del técnico, los técnicos).
 
+- **2026-10-05 · sitio:** `tecnico/usos-cables.md` G10: fórmula de caída de tensión aprobada (batería al final de su autonomía, carga repartida, corrección por temperatura, criterio de la tensión mínima del equipo con 10 % de referencia) y resistencias por calibre de las fichas 2025.
 - **2026-10-05 · sitio:** `tecnico/usos-cables.md` G11: el técnico aprobó la guía 11 (bus BACnet, RS-485 y Modbus): terminaciones de 115 a 120 Ω, drenaje a tierra en un solo extremo, sin distancia máxima ni calibre recomendado.
 - **2026-10-05 · sitio:** `marca/perfil.md` §3: el cable de termostato sin rollo de 305 m muestra sus dos largos (decisión del usuario).
 - **2026-10-05 · sitio:** `marca/perfil.md` §9: palabras clave ampliadas con cómo busca el cliente (2x16, hilos, blindado y apantallado, cable de alarma, baja capacitancia, BMS, Modbus, audio) y la regla de repartir las variantes, una por lugar, sin juntarlas. Por qué: el sitio no aparecía en "control de acceso", "alarma de robo", "BMS" ni "RS-485"; investigación y aprobación del usuario y el técnico.
