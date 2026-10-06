@@ -56,7 +56,7 @@ Los tres repositorios van uno al lado del otro. Cada proyecto tiene el enlace `n
 
 - Sin precios (si alguna vez hay uno, con IVA incluido; nunca "+ IVA"). Sin "stock garantizado": "entrega inmediata del stock disponible".
 - Sin clientes: solo los proyectos autorizados de `nucleo/marca/perfil.md` §7. Sin competidores.
-- No se mencionan el crédito, el método de entrega, la fecha de fundación ni si el cable viene en caja o carrete (solo el largo por rollo: 305 m, o el único largo en que viene la presentación; `marca/perfil.md` §4).
+- No se mencionan el crédito, el método de entrega, la fecha de fundación ni si el cable viene en caja o carrete (solo el largo por rollo: 305 m, o el único largo en que viene la presentación; `marca/perfil.md` §3).
 - Sin festividades ni fechas especiales, sin emojis en títulos, sin frases de relleno ("en el mundo actual", "descubra", "sin duda"), sin nada que se vea genérico o hecho por IA.
 - Sin rostros del equipo ni la bodega en fotos y videos de la marca. (Los asesores sí pueden publicar en LinkedIn desde su perfil personal, con su foto.)
 
