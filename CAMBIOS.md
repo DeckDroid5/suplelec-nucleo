@@ -2,6 +2,7 @@
 
 Cada cambio: fecha, proyecto desde donde se hizo, qué cambió y por qué. Lo más reciente arriba. Las reglas y los datos técnicos solo cambian con la aprobación del usuario (y del técnico, los técnicos).
 
+- **2026-10-05 · marketing:** `medicion/medicion.md` §4: ventas **no** anota el origen de las cotizaciones en Alegra (decisión del usuario: el seguimiento a mano es complicado). Se mide sin ventas: clientes nuevos y facturas desde Alegra, eventos de contacto del sitio y conversiones de los anuncios; el `ref:` de WhatsApp solo informa a quien atiende.
 - **2026-10-05 · sitio:** `tecnico/usos-cables.md` G10: fórmula de caída de tensión aprobada (batería al final de su autonomía, carga repartida, corrección por temperatura, criterio de la tensión mínima del equipo con 10 % de referencia) y resistencias por calibre de las fichas 2025.
 - **2026-10-05 · sitio:** `tecnico/usos-cables.md` G11: el técnico aprobó la guía 11 (bus BACnet, RS-485 y Modbus): terminaciones de 115 a 120 Ω, drenaje a tierra en un solo extremo, sin distancia máxima ni calibre recomendado.
 - **2026-10-05 · sitio:** `marca/perfil.md` §3: el cable de termostato sin rollo de 305 m muestra sus dos largos (decisión del usuario).
