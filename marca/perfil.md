@@ -200,15 +200,18 @@ Suplelec **le habla de usted** al lector, con respeto y sin formalismo excesivo,
 
 ## 9. SEO: palabras clave por pilar
 
-Es una propuesta: falta validar el volumen en Search Console y en el Planificador de Palabras Clave.
+Es una propuesta: falta validar el volumen en Search Console y en el Planificador de Palabras Clave. Ampliada el 5 de octubre de 2026 con cómo busca el cliente (investigación en `docs/seo-palabras-clave.md` del sitio, aprobada por el usuario y el técnico).
+
+**Cómo se usan las variantes:** nuestra forma (16/2, con shield, conductores) se mantiene en títulos, tablas y tarjetas; las variantes con que busca el cliente (2x16, hilos, blindado, apantallado, cable de alarma, 100 % cobre) se reparten, una por lugar, en las partes que se repiten de cada producto (descripción, "Lo esencial", preguntas frecuentes). Nunca juntas, como "16/2 (2x16)": se ve cargado. No se usa "armado" para el cable compuesto (armado es el MC).
 
 | Pilar | Transaccionales (páginas de catálogo) | Informativas (guías técnicas) |
 | --- | --- | --- |
-| Incendio | cable para alarma contra incendio Costa Rica · cable FPLR 16/2 · cable 16/2 con shield para incendio · cable FPL para exterior o enterrado | diferencia entre FPL, FPLR y FPLP · cuándo usar cable con shield en incendio · qué calibre usar en un lazo de detección |
+| Incendio | cable para alarma contra incendio Costa Rica · cable FPLR 16/2 · cable 2x16 / 2x18 para incendio · cable rojo de incendio · cable para detectores de humo y sirenas · cable 16/2 con shield para incendio · cable FPL para exterior o enterrado | diferencia entre FPL, FPLR y FPLP · cuándo usar cable con shield en incendio · qué calibre usar en un lazo de detección |
 | Marca | distribuidor cable Genesis Costa Rica · cable Southwire Costa Rica | equivalencias entre marcas de cable de señal |
-| Robo y control | cable para alarma de robo · cable 18/4 con shield · cable 18/2 blindado · cable para control de acceso | cable con shield o sin shield: cuándo usar cada uno |
+| Robo y control | cable para alarma de robo · cable de alarma de 4 hilos · cable 18/4 con shield · cable 18/2 blindado o apantallado · cable para control de acceso · cable para lectora y cerradura electromagnética · cable compuesto para control de acceso | cable con shield o sin shield: cuándo usar cada uno |
 | Aire acondicionado | cable de comunicación para aire acondicionado · cable 18/2 con shield para aire acondicionado | qué cable de comunicación pide un equipo de aire acondicionado |
-| BACnet | cable BACnet RS485 Costa Rica | requisitos de un cable RS485 para automatización de edificios |
+| BACnet | cable BACnet RS485 Costa Rica · cable RS-485 apantallado · cable de baja capacitancia · cable para BMS · cable Modbus RS-485 | requisitos de un cable RS485 para automatización de edificios |
+| Audio | cable para parlantes calibre 16 · cable para parlantes de jardín (enterrado) · cable para sonido ambiental | — |
 | Certificación | cable certificado UL · cable ETL | UL vs. ETL: qué significa cada una y qué acepta el CFIA |
 
 **Categorías de las guías técnicas** (las mismas que los pilares): Incendio · Homologación y marcas · Robo y control · Aire acondicionado · BACnet · Certificación y normativa · Casos de proyecto.
