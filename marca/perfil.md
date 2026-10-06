@@ -58,9 +58,9 @@ Las líneas prioritarias son **incendio, robo y comunicación de aire acondicion
 | Cable BACnet RS485 | UL | Media |
 | Cable de audio libre de oxígeno (en el sitio, la línea Audacious de Genesis) | UL | Media |
 
-- **Marcas en el sitio:** solo **Genesis y Southwire**, con sus logos (hay permiso para usarlos).
+- **Marcas en el sitio:** solo **Genesis y Southwire**, con sus logos (hay permiso para usarlos). **Honeywell no se menciona**, salvo una nota mínima junto a Genesis en la página Marcas (Genesis fue antes de Honeywell; muchas tiendas aún la llaman así).
 - **No se mencionan:** Belden, Windy City y el cable de red. Se venden poco y solo cuando se da la oportunidad. Tampoco se mencionan las marcas que podrían llegar en el futuro.
-- **Empaque:** solo rollos cerrados (caja o carrete), de **305 m o 152 m** según el producto. Nunca se corta cable. En el sitio se muestra solo el largo por rollo, no si es caja o carrete.
+- **Empaque:** solo rollos cerrados (caja o carrete). Nunca se corta cable. **Se compra y se ofrece el rollo de 305 m** siempre que exista; 152 m u otro largo solo en las presentaciones que vienen únicamente así. En público se muestra solo ese largo, para que el cliente no pida uno que probablemente no hay (decisión del usuario, 5 de octubre de 2026). Los datos internos (fichas, `contenido/catalogo/` del sitio) conservan que existe el de 152 m, para decidir compras. Nunca se dice si es caja o carrete.
 
 ### Productos más vendidos (orden de prioridad para el catálogo y el contenido)
 

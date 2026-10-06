@@ -2,6 +2,7 @@
 
 Cada cambio: fecha, proyecto desde donde se hizo, qué cambió y por qué. Lo más reciente arriba. Las reglas y los datos técnicos solo cambian con la aprobación del usuario (y del técnico, los técnicos).
 
+- **2026-10-05 · sitio:** `marca/perfil.md` §4 y `instrucciones/comunes.md`: en público se ofrece el rollo de 305 m siempre que exista (152 m u otro largo solo si la presentación viene únicamente así); los datos internos conservan el de 152 m. Honeywell no se menciona, salvo una nota mínima junto a Genesis en Marcas. `tecnico/usos-cables.md` U72 (Modbus RTU en RS-485) y U73 (100 % cobre; las aleaciones degradan la señal), aprobadas por el técnico. Por qué: decisiones del usuario y del técnico al revisar las palabras clave (`docs/seo-palabras-clave.md` del sitio).
 - **2026-10-05 · sitio:** `marca/identidad.md` §3: el lema del logo ("calidad & conectividad") y las frases de marca ("Encuéntrelo…", "Consígalo…") conviven, por decisión del usuario.
 - **2026-10-05 · sitio:** juego completo de logos en `marca/logos/` (8 disposiciones × 5 colores y avatares, SVG y PNG, desde el PDF del diseñador) y en la carpeta "Suplelec · Logos" de Canva; `marca/identidad.md` §3 apunta ahí. Por qué: el usuario pidió todas las disposiciones y versiones en alta calidad.
 - **2026-10-05 · sitio:** primeras imágenes con IA (F1 a F3 del sitio) con Nano Banana Pro en 4K, a pedido del usuario de usar un modelo potente; el conector de Canva no edita kits de marca, el kit se ajusta a mano con la lista de `marca/identidad.md` §1 a §3 (§4.1).

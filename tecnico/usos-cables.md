@@ -300,6 +300,12 @@ La impedancia (115 Ω nominales) solo aparece en las fichas de 2018; la de 2025 
 
 **U71.** Se puede instalar en los mismos lugares que el FPLR (U17). *(F1)*
 
+### 5.4 Afirmaciones generales (5 de octubre de 2026)
+
+**U72.** El cable RS-485 sirve también para Modbus RTU, que usa el mismo bus RS-485 que BACnet MS/TP (U49). *(Técnico, 5-10-2026, confirmado por el usuario)*
+
+**U73.** Los conductores de todos los cables de señal del catálogo son 100 % cobre: para señales no se usan aleaciones (como el aluminio recubierto de cobre), porque degradan la señal. *(Técnico, 5-10-2026, confirmado por el usuario)*
+
 ---
 
 ## 6. Diferencias entre fuentes
