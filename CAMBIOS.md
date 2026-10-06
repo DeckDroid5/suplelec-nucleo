@@ -2,6 +2,7 @@
 
 Cada cambio: fecha, proyecto desde donde se hizo, qué cambió y por qué. Lo más reciente arriba. Las reglas y los datos técnicos solo cambian con la aprobación del usuario (y del técnico, los técnicos).
 
+- **2026-10-05 · sitio:** `marca/perfil.md` §3: el cable de termostato sin rollo de 305 m muestra sus dos largos (decisión del usuario).
 - **2026-10-05 · sitio:** `marca/perfil.md` §9: palabras clave ampliadas con cómo busca el cliente (2x16, hilos, blindado y apantallado, cable de alarma, baja capacitancia, BMS, Modbus, audio) y la regla de repartir las variantes, una por lugar, sin juntarlas. Por qué: el sitio no aparecía en "control de acceso", "alarma de robo", "BMS" ni "RS-485"; investigación y aprobación del usuario y el técnico.
 - **2026-10-05 · sitio:** `marca/perfil.md` §3 y `instrucciones/comunes.md`: en público se ofrece el rollo de 305 m siempre que exista (152 m u otro largo solo si la presentación viene únicamente así); los datos internos conservan el de 152 m. Honeywell no se menciona, salvo una nota mínima junto a Genesis en Marcas. `tecnico/usos-cables.md` U72 (Modbus RTU en RS-485) y U73 (100 % cobre; las aleaciones degradan la señal), aprobadas por el técnico. Por qué: decisiones del usuario y del técnico al revisar las palabras clave (`docs/seo-palabras-clave.md` del sitio).
 - **2026-10-05 · sitio:** `marca/identidad.md` §3: el lema del logo ("calidad & conectividad") y las frases de marca ("Encuéntrelo…", "Consígalo…") conviven, por decisión del usuario.

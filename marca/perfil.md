@@ -60,7 +60,7 @@ Las líneas prioritarias son **incendio, robo y comunicación de aire acondicion
 
 - **Marcas en el sitio:** solo **Genesis y Southwire**, con sus logos (hay permiso para usarlos). **Honeywell no se menciona**, salvo una nota mínima junto a Genesis en la página Marcas (Genesis fue antes de Honeywell; muchas tiendas aún la llaman así).
 - **No se mencionan:** Belden, Windy City y el cable de red. Se venden poco y solo cuando se da la oportunidad. Tampoco se mencionan las marcas que podrían llegar en el futuro.
-- **Empaque:** solo rollos cerrados (caja o carrete). Nunca se corta cable. **Se compra y se ofrece el rollo de 305 m** siempre que exista; 152 m u otro largo solo en las presentaciones que vienen únicamente así. En público se muestra solo ese largo, para que el cliente no pida uno que probablemente no hay (decisión del usuario, 5 de octubre de 2026). Los datos internos (fichas, `contenido/catalogo/` del sitio) conservan que existe el de 152 m, para decidir compras. Nunca se dice si es caja o carrete.
+- **Empaque:** solo rollos cerrados (caja o carrete). Nunca se corta cable. **Se compra y se ofrece el rollo de 305 m** siempre que exista; 152 m u otro largo solo en las presentaciones que vienen únicamente así. En público se muestra solo ese largo, para que el cliente no pida uno que probablemente no hay (decisión del usuario, 5 de octubre de 2026). Excepción: los calibres de cable de termostato que no vienen en 305 m (762 m y 76 m, o 76 m y 38 m) muestran los dos largos. Los datos internos (fichas, `contenido/catalogo/` del sitio) conservan que existe el de 152 m, para decidir compras. Nunca se dice si es caja o carrete.
 
 ### Productos más vendidos (orden de prioridad para el catálogo y el contenido)
 
