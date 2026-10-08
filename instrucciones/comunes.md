@@ -62,7 +62,7 @@ Los tres repositorios van uno al lado del otro. Cada proyecto tiene el enlace `n
 
 **Marcas**
 
-- Solo Genesis y Southwire, cada una por su lado: no se dice que Genesis es de Southwire. Nunca Belden, Windy City ni el cable de red.
+- Solo Genesis y Southwire, cada una por su lado: no se dice que Genesis es de Southwire. Nunca Belden, Windy City ni el cable de red. Única excepción: el perfil personal de LinkedIn de Minor (asesor técnico) puede mencionar redes entre lo que atiende (decisión del usuario, 7 de octubre de 2026); la página de la empresa, el sitio y las publicaciones siguen sin mencionarlo.
 - UL y ETL solo junto al producto certificado. "Hecho en EE. UU." solo en la familia que tiene el sello en su ficha.
 
 **Imágenes**
