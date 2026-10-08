@@ -2,6 +2,7 @@
 
 Cada cambio: fecha, proyecto desde donde se hizo, qué cambió y por qué. Lo más reciente arriba. Las reglas y los datos técnicos solo cambian con la aprobación del usuario (y del técnico, los técnicos).
 
+- **2026-10-07 · sitio:** `solicitudes.md`: S3 cerrada (el sitio genera las imágenes para compartir con código; aprobado por el usuario) y S5 con IndexNow activo en producción; quitar los sitemaps viejos y pedir la indexación quedan para el usuario.
 - **2026-10-05 · sitio:** `tecnico/usos-cables.md` G10: el técnico ajustó la calculadora tras la investigación: 12 V desde 10,2 V, 75 °C por omisión, 16 V en incendio, clase A y errores comunes.
 - **2026-10-05 · marketing:** `marca/identidad.md` §4.1: el kit de marca "Suplelec" de Canva quedó ajustado por el usuario; "Suplelec Old" no se usa.
 - **2026-10-05 · marketing:** `medicion/medicion.md` §4: ventas **no** anota el origen de las cotizaciones en Alegra (decisión del usuario: el seguimiento a mano es complicado). Se mide sin ventas: clientes nuevos y facturas desde Alegra, eventos de contacto del sitio y conversiones de los anuncios; el `ref:` de WhatsApp solo informa a quien atiende.
