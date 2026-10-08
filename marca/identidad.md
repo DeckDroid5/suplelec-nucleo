@@ -34,7 +34,7 @@ Sin mayúsculas sostenidas ni emojis en títulos. Nada por debajo de 13 px en pa
 
 Los que usa el sitio también están publicados (otras herramientas los suben por URL): `https://suplelec.com/wp-content/themes/suplelec/assets/logo/` + `suplelec-horizontal.svg`, `-horizontal-blanco.svg`, `-horizontal-lema.svg`, `-horizontal-lema-blanco.svg`, `-vertical.svg`, `-vertical-blanco.svg` y `-isotipo.svg`.
 
-No se deforman ni se les cambia el color; espacio libre alrededor igual al alto de la "S". A color solo sobre claro; sobre marino, el inverso o el blanco. Genesis, Southwire, UL y ETL (autorizados) están en `…/assets/logo/marcas/` y `…/assets/logo/certificaciones/`: UL y ETL solo junto al producto certificado.
+No se deforman ni se les cambia el color; espacio libre alrededor igual al alto de la "S". A color solo sobre claro; sobre marino, el inverso o el blanco. Genesis, Southwire, UL y ETL (autorizados) están en `…/assets/logo/marcas/` y `…/assets/logo/certificaciones/`: UL y ETL solo junto al producto certificado. Los de Genesis y Southwire, vectorizados de los PNG recibidos, son los definitivos: no habrá logos oficiales en SVG y no se vuelven a pedir (usuario, 8 de octubre de 2026).
 
 **Lema y frases de marca:** el lema del logo es "calidad & conectividad"; las frases de marca, "Encuéntrelo con nosotros" y "Consígalo con nosotros". Se usan las dos cosas (decisión del usuario, 5 de octubre de 2026). **Activos distintivos** (se repiten siempre igual): naranja sobre marino, los cables 3D sobre fondo crema, "cotización en menos de una hora".
 

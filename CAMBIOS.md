@@ -3,6 +3,7 @@
 Cada cambio: fecha, proyecto desde donde se hizo, qué cambió y por qué. Lo más reciente arriba. Las reglas y los datos técnicos solo cambian con la aprobación del usuario (y del técnico, los técnicos).
 
 - **2026-10-07 · marketing:** `instrucciones/comunes.md` (Marcas): excepción al cable de red solo en el perfil personal de LinkedIn de Minor, que puede mencionar redes (decisión del usuario: aunque no se venda todavía, es parte de su experiencia). Página, sitio y publicaciones, sin cambios.
+- **2026-10-08 · sitio:** `marca/identidad.md` §3: los logos de Genesis y Southwire vectorizados de los PNG son los definitivos; no habrá oficiales en SVG y no se vuelven a pedir (decisión del usuario).
 - **2026-10-07 · sitio:** `solicitudes.md`: S3 cerrada (el sitio genera las imágenes para compartir con código; aprobado por el usuario) y S5 con IndexNow activo en producción; quitar los sitemaps viejos y pedir la indexación quedan para el usuario.
 - **2026-10-05 · sitio:** `tecnico/usos-cables.md` G10: el técnico ajustó la calculadora tras la investigación: 12 V desde 10,2 V, 75 °C por omisión, 16 V en incendio, clase A y errores comunes.
 - **2026-10-05 · marketing:** `marca/identidad.md` §4.1: el kit de marca "Suplelec" de Canva quedó ajustado por el usuario; "Suplelec Old" no se usa.
