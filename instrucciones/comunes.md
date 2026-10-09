@@ -67,7 +67,7 @@ Los tres repositorios van uno al lado del otro. Cada proyecto tiene el enlace `n
 
 **Imágenes**
 
-- Desde el 4 de octubre de 2026, Claude genera las imágenes con fal.ai (fotos y video, MCP `fal-ai`, pago por uso: consultar el precio antes de generar) y las compone con Canva (diseños con la marca). Las revisa con rigor y el usuario elige; nada se publica sin su elección.
+- Claude genera las imágenes y los videos con fal.ai (desde el 4 de octubre de 2026; MCP `fal-ai`, pago por uso) o con Higgsfield (desde el 9 de octubre de 2026; sobre todo video, y pruebas de imágenes para comparar calidad y costo según el plan que elija el usuario). Antes de generar, consulta el precio o los créditos. Compone con Canva (diseños con la marca). Las revisa con rigor y el usuario elige; nada se publica sin su elección.
 - No se bajan ni se componen imágenes de internet ni de los sitios de los fabricantes por iniciativa propia. Las fotos de marca de Genesis y Southwire las entrega el usuario.
 - Lo que muestra un producto concreto sale de las ilustraciones 3D propias (exactas), no de la IA.
 - Estilo, paleta y revisión: `nucleo/marca/identidad.md`.

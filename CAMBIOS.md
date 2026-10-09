@@ -2,6 +2,7 @@
 
 Cada cambio: fecha, proyecto desde donde se hizo, qué cambió y por qué. Lo más reciente arriba. Las reglas y los datos técnicos solo cambian con la aprobación del usuario (y del técnico, los técnicos).
 
+- **2026-10-09 · marketing:** `instrucciones/comunes.md` (Imágenes): Higgsfield se suma a fal.ai, sobre todo para video y para probar imágenes; se comparan calidad y costo según el plan que elija el usuario (decisión del usuario). `solicitudes.md`: S6 al sitio, la política de privacidad con la finalidad de novedades (el usuario aprobó el texto de consentimiento).
 - **2026-10-07 · marketing:** `instrucciones/comunes.md` (Marcas): excepción al cable de red solo en el perfil personal de LinkedIn de Minor, que puede mencionar redes (decisión del usuario: aunque no se venda todavía, es parte de su experiencia). Página, sitio y publicaciones, sin cambios.
 - **2026-10-08 · sitio:** `marca/identidad.md` §3: los logos de Genesis y Southwire vectorizados de los PNG son los definitivos; no habrá oficiales en SVG y no se vuelven a pedir (decisión del usuario).
 - **2026-10-07 · sitio:** `solicitudes.md`: S3 cerrada (el sitio genera las imágenes para compartir con código; aprobado por el usuario) y S5 con IndexNow activo en producción; quitar los sitemaps viejos y pedir la indexación quedan para el usuario.
